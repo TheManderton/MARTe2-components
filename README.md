@@ -1,3 +1,11 @@
+# REASON FOR PERSONAL REPO
+
+To avoid the error:
+
+fatal: unable to access [URL]: GnuTLS recv error (-110): The TLS connection was non-properly terminated.
+
+When trying to clone the MARTe2 and MARTe2-components repos on WSL2 and docker containers.
+
 # MARTe2-components
 
 The MARTe2-components repository offers a set of components that are deemed useful to the community. 
